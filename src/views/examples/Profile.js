@@ -125,7 +125,8 @@ class Profile extends React.Component {
                   <div className="text-center mt-5">
                     <h3>
                       Cheikh Yirim Seck{" "}
-                      <span className="font-weight-light">, 40</span>
+                      <span className="font-weight-light">, 40
+                      </span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
@@ -133,22 +134,21 @@ class Profile extends React.Component {
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Certificate - Advanced Software Development in Full-Stack JavaScript & Python
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      Code Fellows |
+                      Seattle Central Community College
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+
+                          Always Good while pushing to do better - My name is Yirim Seck, I’m a Senegalese American with a background in Construction. Passionate about learning new things which is one of the reasons I decided to pursue software development. I strongly believe in giving back and helping underrepresented people . My mission is to be a part of a team that shares my core values in addition to servicing people in my community who share my story.  My ability to problem solve largely comes from my experience constantly having to overcome barriers. I hope that one day I can assist others in achieving their goals, whether it be in tech or another arena I have experience in.
+
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
